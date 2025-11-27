@@ -1,8 +1,2 @@
-# Some new instructions have arived
-
-
-
-
-  
-
-  New version of our application.
+# New instructions file 
+review version 0.1
