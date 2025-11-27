@@ -1,3 +1,3 @@
 # ca-DevOpsUA6-pub
 A exeample respository for ca devops  
-Review version 0.5
+Review version 0.6
